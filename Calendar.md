@@ -7,6 +7,22 @@ This is the daily breakdown for the the 30 day HTML & CSS coding challenge. For 
 
 ➡️ [Day 5](#day-5)
 
+➡️ [Day 10](#day-10)
+
+➡️ [Day 15](#day-15)
+
+➡️ [Day 20](#day-20)
+
+➡️ [Day 25](#day-25)
+
+➡️ [Day 30](#day-30)
+
+---
+
+![Calendar Cover](img/Calendar%20Cover.png)
+
+---
+
 ## Day #1 - Project Setup & Text Elements
 
 ### 📺 Watch
@@ -240,7 +256,7 @@ Complete exercises in the Basic CSS Course
 
 ### 📺 Watch
 
-[Learn HTML5 & CSS 3 From Scratch by FreeCodeCamp](https://www.youtube.com/watch?v=mU6anWqZJcc) (7:06:46 - 7:47:04  )
+[Learn HTML5 & CSS 3 From Scratch by FreeCodeCamp](https://www.youtube.com/watch?v=mU6anWqZJcc) (7:06:46 - 7:47:18 )
 
 ### ⌨️ Practice
 
@@ -249,7 +265,293 @@ Complete exercises in the Basic CSS Course
   
 ---
 
-- [ ] []()
+## Day #16 - Gradients & Positioning 
+
+### 📺 Watch
+[Learn HTML5 & CSS 3 From Scratch by FreeCodeCamp](https://www.youtube.com/watch?v=mU6anWqZJcc) (7:47:04 - 8:42:30)
+
+### ⌨️ Practice
+
+- [ ] [Play CSS Battle - Target #1](https://cssbattle.dev/play/1)
+- [ ] [Play CSS Battle - Target #30](https://cssbattle.dev/play/30)
+  
+The CSS Battles can be tricky! Work through what you can and don't be afraid to look things up. It's OK if you don't complete these on the first try!
+
+---
+
+## Day #17 - Media Queries, Z-Index, & Pseudo Elements
+
+### 📺 Watch
+[Learn HTML5 & CSS 3 From Scratch by FreeCodeCamp](https://www.youtube.com/watch?v=mU6anWqZJcc) (8:42:30 - 9:27:14)
+
+### ⌨️ Practice
+
+Complete exercises in the Basic CSS Course
+- [ ] [Use a Media Query to Change a Variable](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-a-media-query-to-change-a-variable)
+  
+Play CSS Diner
+- [ ] [Play through levels 9-14 of CSS Diner](https://flukeout.github.io/)
+
+---
+
+## Day #18 - Selectors (In Depth)
+
+### 📺 Watch
+[Learn HTML5 & CSS 3 From Scratch by FreeCodeCamp](https://www.youtube.com/watch?v=mU6anWqZJcc) (9:27:14 - 9:51:01)
+
+### ⌨️ Practice
+Play CSS Diner
+- [ ] [Play through levels 15 - 32 of CSS Diner](https://flukeout.github.io/)
+
+---
+
+## Day #19 - Review & Project Day
+
+### 📖 Review Day
+
+Review your notes and experiement with code!
+
+### ⌨️ Practice
+
+Create an account on FrontendMentor.io and start working on the Order Summary Component project. Don't be afraid to research things if you get stuck!
+- [ ] [Order Sumary Component](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj)
+
+---
+
+<h2 id="day-20"> Day #20 - Transformations, Transitions, & Animations</h2>
+
+### 📺 Watch
+[Learn HTML5 & CSS 3 From Scratch by FreeCodeCamp](https://www.youtube.com/watch?v=mU6anWqZJcc) (9:51:01 - 10:40:53)
+
+### ⌨️ Practice
+
+If you haven't already, take some time to complete the Order Summary component project on Frontend Mentor from day 17
+- [ ] [Order Sumary Component](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj)
+
+---
+
+## Day #21 - CSS Variables, Box Shadows, & Semantics
+
+### 📺 Watch
+[Learn HTML5 & CSS 3 From Scratch by FreeCodeCamp](https://www.youtube.com/watch?v=mU6anWqZJcc) (10:40:53 - 11:24:11)
+
+### ⌨️ Practice
+
+Complete exercises in the Basic CSS Course
+- [ ] [Use CSS Variables to Change Several Elements at Once](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-css-variables-to-change-several-elements-at-once)
+- [ ] [Create a Custom CSS Variable](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/create-a-custom-css-variable)
+- [ ] [Use a Custom CSS Variable](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-a-custom-css-variable)
+- [ ] [Attach a Fallback Value to a CSS Variable](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/attach-a-fallback-value-to-a-css-variable)
+
+---
+
+## Day #22 - Using Google Chrome Dev Tools
+
+### 📺 Watch
+[Chrome Dev Tools by FreeCodeCamp](https://www.youtube.com/watch?v=gTVpBbFWry8) (entire video)
+
+### ⌨️ Practice
+
+Complete exercises in the Basic CSS Course
+- [ ] [Improve Compatibility with Browsers Fallbacks](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/improve-compatibility-with-browser-fallbacks)
+- [ ] [Inherit CSS Variables](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/inherit-css-variables)
+- [ ] [Change a Variable for a Specific Area](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/change-a-variable-for-a-specific-area)
+
+---
+
+## Day #23 - CSS Flexbox
+
+### ⌨️ Practice
+
+Complete exercises in the CSS Flexbox Course
+- [ ] [Use display: flex to Position Two Boxes](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-display-flex-to-position-two-boxes)
+- [ ] [Add Flex Superpowers to the Tweet Embed](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/add-flex-superpowers-to-the-tweet-embeds)
+- [ ] [Use the flex-direction Property to Make a Row](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-flex-direction-property-to-make-a-row)
+- [ ] [Apply the flex-direction Property to Create Rows](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/apply-the-flex-direction-property-to-create-rows-in-the-tweet-embed)
+- [ ] [Use the flex-direction Property to Make a Column](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-flex-direction-property-to-make-a-column)
+- [ ] [Apply the flex-direction Property to Create Columns](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/apply-the-flex-direction-property-to-create-a-column-in-the-tweet-embed)
+- [ ] [Align Elements Using the justify-content Property](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/align-elements-using-the-justify-content-property)
+- [ ] [Use the justify-content Property in the Tweet Embed](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-justify-content-property-in-the-tweet-embed)
+
+Play Flexbox Froggy
+- [ ] [Start playing Flexbox Froggy and see how far you can get!](https://flexboxfroggy.com/)
+
+---
+
+## Day #24 - CSS Flexbox
+
+### ⌨️ Practice
+
+Complete exercises in the CSS Flexbox Course
+- [ ] [Align Elements Using the align-item Property](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/align-elements-using-the-align-items-property)
+- [ ] [Use the align-items Property in the Tweet Embed](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-align-items-property-in-the-tweet-embed)
+- [ ] [Use the flex-wrap Property to Wrap a Row or Column](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-flex-wrap-property-to-wrap-a-row-or-column)
+- [ ] [Use the flex-shrink Property to Shrink Items](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-flex-shrink-property-to-shrink-items)
+- [ ] [Use the flex-grow Property to Expand Items](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-flex-grow-property-to-expand-items)
+- [ ] [Use the flex-basis Property to Set Initial Size](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-flex-basis-property-to-set-the-initial-size-of-an-item)
+- [ ] [Use the flex Shorthand Property](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-flex-shorthand-property)
+- [ ] [Use the order Property to Rearrange Items](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-order-property-to-rearrange-items)
+- [ ] [Use the align-self Property](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-align-self-property)
+
+Play Flexbox Froggy
+- [ ] [Continue playing Flexbox Froggy and see how far you can get!](https://flexboxfroggy.com/)
+
+---
+
+<h2 id="day-25"> Day #25 - Review & Project Day</h2>
+
+### 📖 Review Day
+
+Review your notes and experiement with code!
+
+### ⌨️ Practice
+
+Complete the 3 Column Preview Component project. Don't be afraid to research things if you get stuck!
+- [ ] [3 Column Preview Component](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-)
+
+---
+
+## Day #26 - CSS Grid
+
+### ⌨️ Practice
+Complete exercises in the CSS Grid Course
+- [ ] [Create Your First CSS Grid](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/create-your-first-css-grid)
+- [ ] [Add Columns with grid-template-columns](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/add-columns-with-grid-template-columns)
+- [ ] [Add Rows with grid-template-rows](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/add-rows-with-grid-template-rows)
+- [ ] [Use CSS Grid Units to Change the Size of Columns and Rows](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/use-css-grid-units-to-change-the-size-of-columns-and-rows)
+- [ ] [Create a Column Gap Using grid-column-gap](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/create-a-column-gap-using-grid-column-gap)
+- [ ] [Create a Row Gap using grid-row-gap](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/create-a-row-gap-using-grid-row-gap)
+- [ ] [Add Gaps Faster with grid-gap](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/add-gaps-faster-with-grid-gap)
+
+
+Start playing CSS Grid Garden!
+- [Start playing CSS Grid Garden and see how many levels you can complete!](https://cssgridgarden.com/)
+
+---
+
+## Day #27 - CSS Grid
+
+### ⌨️ Practice
+Complete exercises in the CSS Grid Course
+- [ ] [Use grid-column to Control Spacing](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/use-grid-column-to-control-spacing)
+- [ ] [Use grid-row to Control Spacing](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/use-grid-row-to-control-spacing)
+- [ ] [Align an Item Horizontally Using justify-self](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/align-an-item-horizontally-using-justify-self)
+- [ ] [Align an Item Vertically Using align-self](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/align-an-item-vertically-using-align-self)
+- [ ] [Align All Items Horizontally Using justify-items](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/align-all-items-horizontally-using-justify-items)
+- [ ] [Align All Items Vertically Using justify-items](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/align-all-items-vertically-using-align-items)
+- [ ] [Divide the Grid Area Into a Template](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/divide-the-grid-into-an-area-template)
+- [ ] [Place Items in Grid Areas Using the grid-area Property](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/place-items-in-grid-areas-using-the-grid-area-property)
+- [ ] [Use grid-area Without Creating an Areas Template](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/use-grid-area-without-creating-an-areas-template)
+  
+Play CSS Grid Garden!
+- [ ] [Continue playing CSS Grid Garden and see how many levels you can complete!](https://cssgridgarden.com/)
+
+--- 
+
+## Day #28 - CSS Grid
+
+### ⌨️ Practice
+Complete exercises in the CSS Grid Course
+- [ ] [Reduce Repetition Using the Repeat Function](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/reduce-repetition-using-the-repeat-function)
+- [ ] [Limit Item Size Using the minmax Function](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/limit-item-size-using-the-minmax-function)
+- [ ] [Create Flexible Layouts Using auto-fill](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/create-flexible-layouts-using-auto-fill)
+- [ ] [Create Flexible Layouts Using auto-fit](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/create-flexible-layouts-using-auto-fit)
+- [ ] [Use Media Queries to Create Responsive Layouts](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/use-media-queries-to-create-responsive-layouts)
+- [ ] [Create Grids within Grids](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/create-grids-within-grids)
+  
+Play CSS Grid Garden!
+- [ ] [Continue playing CSS Grid Garden and see how many levels you can complete!](https://cssgridgarden.com/)
+
+--- 
+
+## Day #29 - Review & Project Day
+
+### 📖 Review Day
+
+Review your notes and experiement with code!
+
+### ⌨️ Practice
+
+Complete the Stats Preview Card Component project. Don't be afraid to research things if you get stuck!
+- [ ] [Stats Preview Card Component](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62)
+
+--- 
+
+<h2 id="day-30"> Day #30 - Project Day</h2>
+
+### ⌨️ Practice
+
+Complete the Testimonials Grid Section project. Don't be afraid to research things if you get stuck!
+- [ ] [Testimonials Grid Section](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7)
+
+**🎉 Celebrate a job well done!**
+
+---
+
+<h2 id="connect">👩🏾‍💻 Let's Connect</h2>
+
+I would love to hear about your experience with this 30 Day HTML & CSS coding calendar! You can find me on the socials below to share your experience.
+
+<a href="https://www.youtube.com/c/breehall">
+    <img 
+        src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
+        alt="YouTube Logo Badge"
+    >
+</a>
+<a href="https://www.twitter.com/bytesofbree">
+    <img 
+        src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
+        alt="Twitter Logo Badge"
+    >
+</a>
+<a href="https://www.instagram.com/bytesofbree">
+    <img 
+        src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+        alt="Instagram Logo Badge"
+    >
+</a>
+<a href="https://dev.to/bytesofbree">
+    <img 
+        src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"
+        alt="DevTo Logo Badge"
+    >
+</a>
+<a href="https://bytesofbree.hashnode.dev/">
+    <img 
+        src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"
+        alt="Hashnode Logo Badge"
+    >
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

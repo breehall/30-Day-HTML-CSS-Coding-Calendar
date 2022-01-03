@@ -88,7 +88,7 @@ If you'd like to view this calendar here on Github, click [here](Calendar.md)!
 
 ✨ [Frontend Mentor](https://www.frontendmentor.io/)
 
-✨ [Frontend Mentor](https://www.w3schools.com/git/exercise.asp)
+✨ [W3Schools](https://www.w3schools.com/git/exercise.asp)
 
 ---
 
