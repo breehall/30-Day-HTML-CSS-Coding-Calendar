@@ -48,6 +48,10 @@ I hope that you enjoy the 30 day adventure you’re about to embark on! Feel fre
 
 The calendar can be downloaded as a PDF here. All exercises and videos are linked to their respective websites, so feel free to download it or print it!
 
+**View on the Web**
+
+If you'd like to view this calendar here on Github, click [here](Calendar.md)!
+
 ---
 
 <h2 id="resources">🌐 Resources Used to Create The Calendar</h2>
