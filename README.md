@@ -28,7 +28,7 @@ The way you use this calendar is really up to you, but here are a few of my cons
 - **Time:** 
   This calendar spans 30 days. 30 days is 30 days. It doesn’t matter if they’re consecutive or on predetermined days that fit into your schedule. It only matters that you’re learning and practicing, so complete these 30 days in the format that’s best for you!
 
-- **Journaling:** 
+- **Journal:** 
   I highly recommend that you keep a journal while you complete this challenge. I recommend documenting a summary of what you learned during your study session, things you’re having trouble with or don’t understand, and any questions you currently have. As you make your way towards day 30, you may realize you now have the answers to questions you asked in the first few days. It can be a dedicated journal or a simple note in your default Notes app, but be sure to journal.
   
 - **Where to Go From Here:** 
@@ -38,7 +38,7 @@ The way you use this calendar is really up to you, but here are a few of my cons
 
 I hope that you enjoy the 30 day adventure you’re about to embark on! Feel free to share your progress with me on [Twitter (@bytesofbree)](https://www.twitter.com/bytesofbree). Happy coding!
 
-✨ Check out the video on YouTube where I disucss the calendar and how I would it here
+✨ Check out the video on YouTube where I discuss the calendar in depth and how I would use it if I had to learn HTML & CSS from the beginning again.
 
 ---
 
