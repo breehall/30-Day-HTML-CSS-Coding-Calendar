@@ -46,7 +46,7 @@ I hope that you enjoy the 30 day adventure you’re about to embark on! Feel fre
 
 **PDF Format**
 
-The calendar can be downloaded as a PDF here. All exercises and videos are linked to their respective websites, so feel free to download it or print it!
+The calendar can be downloaded as a PDF [here](30%20Day%20Beginner%20HTML%20&%20CSS%20Calendar.pdf). All exercises and videos are linked to their respective websites, so feel free to download it or print it!
 
 **View on the Web**
 
