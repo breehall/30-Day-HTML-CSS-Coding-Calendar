@@ -425,7 +425,7 @@ Complete exercises in the CSS Grid Course
 
 
 Start playing CSS Grid Garden!
-- [Start playing CSS Grid Garden and see how many levels you can complete!](https://cssgridgarden.com/)
+- [ ] [Start playing CSS Grid Garden and see how many levels you can complete!](https://cssgridgarden.com/)
 
 ---
 
@@ -488,7 +488,7 @@ Complete the Testimonials Grid Section project. Don't be afraid to research thin
 
 ---
 
-<h2 id="connect">👩🏾‍💻 Let's Connect</h2>
+<h2 id="connect">👋🏾 Let's Connect</h2>
 
 I would love to hear about your experience with this 30 Day HTML & CSS coding calendar! You can find me on the socials below to share your experience.
 

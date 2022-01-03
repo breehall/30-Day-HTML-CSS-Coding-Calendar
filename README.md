@@ -92,7 +92,7 @@ If you'd like to view this calendar here on Github, click [here](Calendar.md)!
 
 ---
 
-<h2 id="connect">👩🏾‍💻 Let's Connect</h2>
+<h2 id="connect">👋🏾 Let's Connect</h2>
 
 I would love to hear about your experience with this 30 Day HTML & CSS coding calendar! You can find me on the socials below to share your experience.
 
