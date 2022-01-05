@@ -38,9 +38,10 @@ The way you use this calendar is really up to you, but here are a few of my cons
 
 I hope that you enjoy the 30 day adventure you’re about to embark on! Feel free to share your progress with me on [Twitter (@bytesofbree)](https://www.twitter.com/bytesofbree). Happy coding!
 
-✨ Check out the video on YouTube where I discuss the calendar in depth and how I would use it if I had to learn HTML & CSS from the beginning again.
+✨ Click the image below to check out the video on YouTube where I discuss the calendar in depth and how I would use it if I had to learn HTML & CSS from the beginning again.
 
----
+[![30 Days - Thumbnail](https://user-images.githubusercontent.com/40739624/148301669-e65bd853-4c05-43e4-ae3c-5d534ac3e9e8.png)](https://youtu.be/HDssvUHgpYk)
+
 
 <h2 id="download-calendar">📅 Downloading the Calendar</h2>
 
