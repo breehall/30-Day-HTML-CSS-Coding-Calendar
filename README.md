@@ -97,7 +97,7 @@ If you'd like to view this calendar here on Github, click [here](Calendar.md)!
 
 I would love to hear about your experience with this 30 Day HTML & CSS coding calendar! You can find me on the socials below to share your experience.
 
-<a href="https://www.youtube.com/c/breehall">
+<a href="https://www.youtube.com/channel/UCCoKFWpai3OO1R0e_AHeNKA">
     <img 
         src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
         alt="YouTube Logo Badge"
